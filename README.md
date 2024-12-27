@@ -307,14 +307,6 @@ const Keshav = {
 
 [![Keshav Sariya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keshav1404-web&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/keshav1404-web/github-readme-activity-graph)
 
-<hr>
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
