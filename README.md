@@ -113,9 +113,21 @@ const Keshav = {
 <!-- Connect With Me Section Here -->
 <h1 align="left">🤞 Connect with Me</h1>
 <p align="left">
-<a href="https://www.instagram.com/_.keshaav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.keshaav_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/keshav-sariya-0777a0339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-sariya-0777a0339" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/keshavsariya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavsariya" height="30" width="40" /></a>
+  <!-- Instagram Link -->
+  <a href="https://www.instagram.com/_.keshaav_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.keshaav_" height="30" width="40" />
+  </a>
+
+  <!-- LinkedIn Link -->
+  <a href="https://www.linkedin.com/in/keshav-sariya-0777a0339/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-sariya-0777a0339" height="30" width="40" />
+  </a>
+
+  <!-- LeetCode Link -->
+  <a href="https://leetcode.com/u/keshavsariya/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavsariya" height="30" width="40" />
+  </a>
+
 
 
 <!-- Language and Tools Section Here -->
